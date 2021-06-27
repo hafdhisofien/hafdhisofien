@@ -2,10 +2,10 @@
 
 ### About me🧑:
 
-I am sofien Hafdhi 26 years old From gabes,tunisia. <br/>
-I am software enginner student at hoblerton school, specifically in the Web full stack curriculum. <br/>
-Intersted in learning web technologies and AR/VR too, i have a passion for building and desgining websites<br/>
-and looking to get into Game dev too someday.
+✔ I am sofien Hafdhi 26 years old From gabes,tunisia. <br/>
+✔ I am software enginner student at hoblerton school, specifically in the Web full stack curriculum. <br/>
+✔ Intersted in learning web technologies and AR/VR too, i have a passion for building and desgining websites<br/>
+✔ and looking to get into Game dev too someday.
 
 <br/>
 
@@ -42,7 +42,7 @@ and looking to get into Game dev too someday.
 <br/>
 <br/>
 
-### 👨‍💻 Languages and Tools 
+### 👨‍💻 Languages and Tools 👨‍💻
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -71,7 +71,7 @@ and looking to get into Game dev too someday.
 <br/>
 <br/>
 
-### Github Activity ✔:
+### Github Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;:
 
 <br/>
 
