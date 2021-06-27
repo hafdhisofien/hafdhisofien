@@ -3,8 +3,8 @@
 ### About me🧑:
 
 I am sofien Hafdhi 26 years old From gabes,tunisia. <br/>
-a software enginner student at hoblerton school specifically a Web full stack curriculum. <br/>
-I am intersted in learning web technologies and AR/VR too, i have a passion for building and desgining websites<br/>
+I am software enginner student at hoblerton school, specifically in the Web full stack curriculum. <br/>
+Intersted in learning web technologies and AR/VR too, i have a passion for building and desgining websites<br/>
 and looking to get into Game dev too someday.
 
 <br/>
