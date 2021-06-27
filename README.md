@@ -21,7 +21,7 @@ and looking to get into Game dev too someday.
   <img align="left" alt="sofien's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://www.facebook.com/people/sofien.hafdhi">
+<a href="https://www.facebook.com/people/sofien.hafdhi/">
   <img align="left" alt="sofien's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
