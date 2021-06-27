@@ -1,5 +1,14 @@
 ### Hello To My World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+### About me🧑:
+
+I am sofien Hafdhi 26 years old From gabes,tunisia.
+a software enginner student at hoblerton school specifically a Web full stack curriculum. 
+I am intersted in learning web technologies and AR/VR too, i have a passion for building and desgining websites
+and looking to get into Game dev too someday.
+
+<br/>
+
 <summary> Connect with me🤝: </summary>  
 
 <br/>
