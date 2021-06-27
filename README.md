@@ -75,7 +75,7 @@ and looking to get into Game dev too someday.
 
 
 <a href="https://github.com/hafdisofien">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafdhisofien&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafdhisofien&theme=tokyonight" />
   </a>
   <a href="https://github.com/hafdhisofien">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafdhisofien&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
