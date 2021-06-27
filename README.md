@@ -9,8 +9,7 @@ and looking to get into Game dev too someday.
 
 <br/>
 
-<summary> Connect with me🤝: </summary>  
-
+### Connect With me🧑:
 <br/>
 
 
