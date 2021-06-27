@@ -29,7 +29,7 @@
   <img align="left" alt="sofien's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-<a href = "mailto:hafdhi.sofien@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="22px" width="22px" /></a>
+<a href = "mailto:hafdhi.sofien@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="22px" /></a>
 <br/>
 
 
