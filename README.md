@@ -1,7 +1,7 @@
 ### Hello To My World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <details>
-<summary> Connect with me🤝: </summary>  
+### Connect with me🤝:
 
 <br/>
 
